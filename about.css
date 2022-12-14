@@ -4,7 +4,7 @@ body{
 
 header{
     height: 100vh;
-    background: url(/myimg/cyberpunk-neon-girl_1565054393\ 4.jpg) no-repeat;
+    background: url(myimg/cyberpunk-neon-girl_1565054393\ 4.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     }
@@ -113,7 +113,7 @@ margin-bottom: 90px;
 }
 .futurediv{
     height: 100vh;
-    background: url(/myimg/96398-neon-cyberpunk-artist-artwork-digital-art-hd-4k-artstation\ 1.jpg) no-repeat;
+    background: url(myimg/96398-neon-cyberpunk-artist-artwork-digital-art-hd-4k-artstation\ 1.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
